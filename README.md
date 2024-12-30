@@ -1,3 +1,5 @@
+<font size="3">Description</font>
+
 This repository contains two simple HTML projects: **Media.html and Table.html**
 
 **Media**
