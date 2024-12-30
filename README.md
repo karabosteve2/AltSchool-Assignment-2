@@ -12,5 +12,5 @@ AltSchool Africa Courses Page:
 - A table displaying schools and their respective courses offered at AltSchool Africa.
 
 ### Links:
-- [Media About Me Page](https://karabosteve2.github.io/AltSchool-Assignment-2/Media.html)
-- [Table AltSchool Africa Courses Page](https://karabosteve2.github.io/AltSchool-Assignment-2/Table.html)
+- [Media About Me Page](https://karabosteve2.github.io/AltSchool-Assignment-2/media.html)
+- [Table AltSchool Africa Courses Page](https://karabosteve2.github.io/AltSchool-Assignment-2/table.html)
