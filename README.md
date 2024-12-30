@@ -1,4 +1,4 @@
-#**Description**
+**Description**
 
 This repository contains two simple HTML projects: **Media.html and Table.html**
 
